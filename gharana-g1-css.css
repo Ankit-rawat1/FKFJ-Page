@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'sanford';
+	src: url(font/Sanford.ttf);
+}
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+.heading-text{
+	font-size: 14px;
+   color: #565656;
+   font-family: 'Biryani';
+}
+.section-one-heading {
+	font-family: 'Sanford';
+   font-size: 30px;
+   color: #f89b57;
+   line-height: 1.27;
+   margin-top: 21px;
+}
+.section-one-content{
+	margin-right: 70px;
+	margin-left: 30px;
+}
+.section-one-paragraph{
+	font-family: Biryani;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 2.11;
+  color: #4c4c4e;
+  margin-right: 30px;
+}
+.section-third-content{
+	margin-left: 108px;
+	margin-right: 61px;
+}
+.section-sub-heading{
+	font-family: Sanford;
+   font-size: 24px;
+   color: #f89b57;
+}
