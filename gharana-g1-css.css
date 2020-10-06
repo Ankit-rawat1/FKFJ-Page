@@ -14,12 +14,7 @@
    margin-bottom: 1.25rem;
 }
 .gharana-section-one{
-	display: flex;
-	flex-wrap: wrap;
-	max-width: 120rem;
-	margin-left: auto;
-	margin-right: auto;
-
+	max-width: 1920px;
 }
 .section-one-heading {
 	font-family:Sanford;
@@ -37,7 +32,6 @@
 	font-family: Biryani;
   font-size: 1.125rem;
   font-weight: 200;
-  line-height: 2.375rem;
   color: #4c4c4e;
 }
 .gharana-section-banner{
@@ -46,9 +40,6 @@
 }
 .gharana-section-third{
 	max-width: 1920px;
-	margin-left: auto;
-	margin-right: auto;
-
 }
 .section-third-content{
 	padding-left: 6.75rem;
@@ -65,7 +56,6 @@
 	font-family: Biryani;
   font-size: 1.125rem;
   font-weight: 200;
-  line-height:2.37rem;
   color: #4c4c4e;
 }
 .section-sub-heading{
