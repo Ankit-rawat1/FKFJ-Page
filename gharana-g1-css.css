@@ -2,49 +2,47 @@
 	font-family: 'sanford';
 	src: url(font/Sanford.ttf);
 }
-
-html {
-	font-size: 10px;
-}
 *{
 	margin: 0px;
 	padding: 0px;	
 }
 .heading-text{
-	font-size: 1.4rem;
+	font-size: 0.875rem;
    color: #565656;
    font-family: 'Biryani';
-   margin-top: 2rem;
-   margin-bottom: 2rem;
+   margin-top: 1.25rem;
+   margin-bottom: 1.25rem;
 }
 .gharana-section-one{
 	display: flex;
 	flex-wrap: wrap;
-	max-width: 1920px;
+	max-width: 120rem;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 .section-one-heading {
-	font-family: 'Sanford';
-   font-size: 3rem;
+	font-family:Sanford;
+   font-size: 1.875rem;
    color: #f89b57;
-   line-height: 1.27;
-   margin-top: 2.1rem;
+   line-height: 2.375rem;
+   margin-top: 1.31rem;
+   margin-bottom: 1.5rem;
 }
 .section-one-content{
-	padding-left: 6rem;
-	padding-right: 7rem;
+	padding-left: 3.75rem;
+	padding-right: 4.375rem;
 }
 .section-one-paragraph{
 	font-family: Biryani;
-  font-size: 1.8rem;
+  font-size: 1.125rem;
   font-weight: 200;
-  line-height: 2.11;
+  line-height: 2.375rem;
   color: #4c4c4e;
 }
 .gharana-section-banner{
-	margin-bottom: 5.5rem;
-	margin-top: 5.5rem;
+	margin-bottom: 3.43rem;
+	margin-top: 3.43rem;
 }
 .gharana-section-third{
 	max-width: 1920px;
@@ -53,24 +51,26 @@ html {
 
 }
 .section-third-content{
-	padding-left: 10.8rem;
-	padding-right: 6rem;
+	padding-left: 6.75rem;
+	padding-right: 3.75rem;
 }
 .section-third-heading{
 	font-family: 'Sanford';
    font-size: 3rem;
    color: #f89b57;
    line-height: 1.27;
+   margin-bottom: 0.31rem;
 }
 .section-third-paragraph{
 	font-family: Biryani;
-  font-size: 1.8rem;
+  font-size: 1.125rem;
   font-weight: 200;
-  line-height: 2.11;
+  line-height:2.37rem;
   color: #4c4c4e;
 }
 .section-sub-heading{
 	font-family: Sanford;
-   font-size: 2.4rem;
+   font-size: 1.5rem;
    color: #f89b57;
+   margin-bottom: 1.5rem;
 }
