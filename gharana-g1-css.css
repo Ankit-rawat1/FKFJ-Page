@@ -20,6 +20,9 @@ html {
 .gharana-section-one{
 	display: flex;
 	flex-wrap: wrap;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
 }
 .section-one-heading {
 	font-family: 'Sanford';
@@ -42,6 +45,12 @@ html {
 .gharana-section-banner{
 	margin-bottom: 5.5rem;
 	margin-top: 5.5rem;
+}
+.gharana-section-third{
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+
 }
 .section-third-content{
 	padding-left: 10.8rem;
